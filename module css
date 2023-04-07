@@ -1,0 +1,77 @@
+<!DOCTYPE html >
+<html> _ _
+< tête >
+
+< titre > Module 3 </ titre >
+
+  < meta  name =" viewport " content =" width=device-width, initial-scale=1 " >
+  < lien  rel =" feuille de style " href =" https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css " >
+  < script  src =" https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js " > </ script >
+  < script  src =" https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js " > </ script >
+
+</ tête >
+
+< meta  name =" viewport " content =" width=device-width, initial-scale=1 " >
+< lien  rel =" feuille de style " type =" text/css " href =" style.css " >
+
+
+
+< corps >
+
+
+< classe de navigation  =" barre de navigation " id =" haut " >
+  < div  class =" conteneur-fluide " >
+
+    < div  class =" en-tête de barre de navigation " >
+      < type de bouton  =" bouton " class =" navbar-toggle " data-toggle =" collapse " data-target =" #myNavbar " >
+        < span  class =" icon-bar " > </ span >
+        < span  class =" icon-bar " > </ span >
+        < span  class =" icon-bar " > </ span > 
+      </ bouton >
+      < a  class =" navbar-brand " href =" # " > Food, LLC </ a >
+    </div> _ _
+
+    < div  class =" réduire " id =" ma barre de navigation " >
+      < ul  class =" nav navbar-nav visible-xs " >
+        < li > < a  class =" menu-item " href =" # " > Poulet </ a > </ li >
+        < li > < a  class =" menu-item " href =" # " > Bœuf </ a > </ li > 
+        < li > < a  class =" menu-item " href =" # " > Sushis </ a > </ li > 
+      </ul> _ _
+    </div> _ _
+
+  </div> _ _
+</nav> _ _
+
+< h1  class =" main-title " > Notre Menu </ h1 >
+
+
+
+< classe div  =" ligne " >
+
+  < div  class =" col-lg-4 col-md-6 col-sm-12 " >
+    < div  class =" content-box " >
+      < p  class =" item-name " > Poulet </ p >
+      < p > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Énée commodo ligula eget dolor. Masse énéenne. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nca, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. < a  href ="#top " > (Retour en haut) </ a > </ p >
+    </div> _ _
+  </div> _ _
+
+  < div  class =" col-lg-4 col-md-6 col-sm-12 " >
+    < div  class =" content-box " >
+      < p  class =" item-name " > Bœuf </ p >
+      < p > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Énée commodo ligula eget dolor. Masse énéenne. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nca, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. < a  href ="#top " > (Retour en haut) </ a > </ p >
+    </div> _ _
+  </div> _ _
+
+
+  < div  class =" col-lg-4 col-md-12 col-sm-12 " >
+    < div  class =" content-box " >
+      < p  class =" item-name " > Sushis </ p >
+      < p > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Énée commodo ligula eget dolor. Masse énéenne. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nca, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. < a  href ="#top " > (Retour en haut) </ a > </ p >
+    </div> _ _
+  </div> _ _
+
+</div> _ _
+
+
+</ corps >
+</html> _ _
